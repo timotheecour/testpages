@@ -6,4 +6,7 @@ test2:
 test3:
 {{test3.txt}}
 
+test2b:
+<<[test2.md]
+
 end
