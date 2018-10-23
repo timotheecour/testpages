@@ -9,4 +9,8 @@ test3:
 test2b:
 <<[test2.md]
 
+test3c:
+![Show me if there is no such a file](test3.txt)
+
+
 end
