@@ -1,0 +1,7 @@
+== in test4
+
+foo1
+
+include::test5.adoc[]
+
+foo2
